@@ -26,3 +26,12 @@ Statistical framework: Bayesian
  
 For more information on these models, I highly recommend the book: Bayesian population analysis using WinBUGs by Marc Kéry and Michael Schaub.
 
+#There are 5 files:
+
+1. Simulate data
+2. Write model in BUGS language
+3. Bundle the data needed
+4. Compare the estimated parameter values from model output to truth
+5. Examine model fit
+
+
