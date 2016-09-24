@@ -4,7 +4,7 @@ Objective: To estimate survival and population growth for a population of marked
 
 Code: Learn to simulate and analyze capture-mark-recapture data for a stage-structured (i.e., age, size, sex, or any other discrete category) population
 
-In this repositoru, we will simulate data for a capture-mark-recapture study, and we will analyze that data in JAGS.
+In this repository, we will simulate data for a capture-mark-recapture study, and we will analyze that data in JAGS.
  
 Here is the scenario: We are disease ecologists, and we want to understand the disease dynamics of our system. When we capture an individual, we assign it to a certain ‘state.’ A state in our case is a disease status, but can also be defined as a geographic location, an age, a breeding status, etc.
  
